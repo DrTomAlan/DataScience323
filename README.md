@@ -1,10 +1,11 @@
-# DataScience323
+# git config --global user.name "DrTomAlan"
 
-## Editing the file
 
-Its a markdown file in this respository.
+# git config --global user.email drtom@4iLeadership.com
 
-@display the output
-print("new python file")
+
+# git config --global init.default branch main
+
+
 
 
